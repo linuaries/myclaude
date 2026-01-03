@@ -1,4 +1,5 @@
-.claude/
+.claude/settings.json
+.mcp.json
 .claude-trace
 .DS_Store
 **/.DS_Store
