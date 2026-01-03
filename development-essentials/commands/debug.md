@@ -1,3 +1,7 @@
+---
+description: Systematic debugging orchestrator with multi-agent coordination (Architect, Research, Coder, Tester), hypothesis generation, validation loops, and user confirmation before fixes
+---
+
 # UltraThink Debug Orchestrator
 
 ## Usage

@@ -1,3 +1,7 @@
+---
+description: Senior systems architect consultation providing expert architectural guidance through Systems Designer, Technology Strategist, Scalability Consultant, and Risk Advisor with KISS/YAGNI/SOLID principles
+---
+
 ## Usage
 `project:/ask <TECHNICAL_QUESTION>`
 

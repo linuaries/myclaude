@@ -1,3 +1,7 @@
+---
+description: Multi-agent feature implementation orchestrator coordinating Architect, Implementation Engineer, Integration Specialist, and Code Reviewer for comprehensive development with quality validation
+---
+
 ## Usage
 `/project:code  <FEATURE_DESCRIPTION>`
 

@@ -1,3 +1,7 @@
+---
+description: Full-cycle AI team workflow orchestrating PO, Architect, SM, Dev, and QA agents with repository context scanning, dual quality-gated approval gates (PRD and Architecture), UltraThink methodology, and interactive confirmation at critical design points
+---
+
 ## Usage
 `/bmad-pilot <PROJECT_DESCRIPTION> [OPTIONS]`
 

@@ -1,3 +1,7 @@
+---
+description: Multi-agent coordination orchestrator for complex problem-solving with Architect, Research, Coder, and Tester agents featuring ultrathink reflection phase and iterative gap resolution
+---
+
 ## Usage
 
 `/project:think <TASK_DESCRIPTION>`

@@ -1,3 +1,7 @@
+---
+description: Refactoring coordinator orchestrating Structure Analyst, Code Surgeon, Design Pattern Expert, and Quality Validator for safe code transformations with quality gates
+---
+
 ## Usage
 `/project:refactor.md <REFACTOR_SCOPE>`
 

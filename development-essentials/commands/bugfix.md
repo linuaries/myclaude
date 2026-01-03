@@ -1,3 +1,7 @@
+---
+description: Automated bugfix workflow with quality-gated validation loop using bugfix and bugfix-verify sub-agents, ensuring 90%+ quality threshold through iterative refinement
+---
+
 ## Usage
 `/project:bugfix <ERROR_DESCRIPTION>`
 

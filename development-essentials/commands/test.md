@@ -1,3 +1,7 @@
+---
+description: Test strategy coordinator managing Test Architect, Unit Test Specialist, Integration Test Engineer, and Quality Validator for comprehensive testing approach with coverage analysis
+---
+
 ## Usage
 `/project:test <COMPONENT_OR_FEATURE>`
 

@@ -1,3 +1,7 @@
+---
+description: Pragmatic requirements-to-code workflow with repository scanning, requirements confirmation, single-document technical specifications, direct code generation, and quality gates at 90% threshold
+---
+
 ## Usage
 `/requirements-pilot <FEATURE_DESCRIPTION> [OPTIONS]`
 

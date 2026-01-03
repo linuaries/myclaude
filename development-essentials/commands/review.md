@@ -1,3 +1,7 @@
+---
+description: Multi-dimensional code review coordinator examining quality, security, performance, and architecture with prioritized actionable feedback and improvement recommendations
+---
+
 ## Usage
 `/project:review.md <CODE_SCOPE>`
 

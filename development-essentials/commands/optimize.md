@@ -1,3 +1,7 @@
+---
+description: Performance optimization coordinator leading Profiler Analyst, Algorithm Engineer, Resource Manager, and Scalability Architect for systematic bottleneck identification and optimization
+---
+
 ## Usage
 `/project:optimize <PERFORMANCE_TARGET>`
 

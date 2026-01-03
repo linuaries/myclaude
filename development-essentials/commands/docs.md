@@ -1,3 +1,7 @@
+---
+description: Comprehensive documentation generator producing API reference, code annotations, user guides, and developer documentation with clear structure and real-world examples
+---
+
 ## Usage
 
 `/project:docs <CODE_SCOPE_DESCRIPTION>`
